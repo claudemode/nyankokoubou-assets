@@ -1,6 +1,6 @@
 # nyankokoubou-assets
 
-「にゃんこ工房」(https://nyankokoubou.blogspot.com/)のプログラムが使う部品を置く場所です。
+「にゃんこ工房」 https://nyankokoubou.blogspot.com/ のプログラムが使う部品を置く場所です。
 
 Files used by the programs on https://nyankokoubou.blogspot.com/ .
 
